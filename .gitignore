@@ -1,0 +1,17 @@
+## original LaTeX source & temp files
+*.tcp
+*.tex
+*.tps
+*.bib
+
+## temp files
+*.aux
+*.toc
+*.bbl
+*.log
+*.out
+*.tmp
+*.blg
+
+## folders beyond the project name folder
+/chemical-kinetics-solver/*/
